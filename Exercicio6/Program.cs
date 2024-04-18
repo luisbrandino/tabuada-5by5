@@ -1,6 +1,4 @@
-﻿// faça um programa que leia um numero inteiro positivo e imprima a sua tabuada
-
-int number = 0;
+﻿int number = 0;
 
 while (number <= 0)
 {
